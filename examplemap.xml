@@ -1,0 +1,30 @@
+<game>
+    <part>
+        <name>Gaming Part</name>
+        <sizeX>10</sizeX>
+        <sizeY>10</sizeY>
+        <sizeZ>10</sizeZ>
+        <posX>0</posX>
+        <posY>0</posY>
+        <posZ>0</posZ>
+        <rotX>0</rotX>
+        <rotY>45</rotY>
+        <rotZ>0</rotZ>
+        <anchored>false</anchored>
+	  <color>#FFFFFF</color>
+    </part>
+    <part>
+        <name>Gaming Part (1)</name>
+        <sizeX>10</sizeX>
+        <sizeY>10</sizeY>
+        <sizeZ>10</sizeZ>
+        <posX>10</posX>
+        <posY>0</posY>
+        <posZ>10</posZ>
+        <rotX>0</rotX>
+        <rotY>45</rotY>
+        <rotZ>0</rotZ>
+	  <anchored>true</anchored>
+	  <color>#FFF000</color>
+    </part>
+</game>
