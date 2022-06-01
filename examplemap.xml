@@ -11,7 +11,7 @@
         <rotY>45</rotY>
         <rotZ>0</rotZ>
         <anchored>false</anchored>
-	  <color>#FFFFFF</color>
+	<color>#FFFFFF</color>
     </part>
     <part>
         <name>Gaming Part (1)</name>
@@ -24,7 +24,7 @@
         <rotX>0</rotX>
         <rotY>45</rotY>
         <rotZ>0</rotZ>
-	  <anchored>true</anchored>
-	  <color>#FFF000</color>
+	<anchored>true</anchored>
+	<color>#FFF000</color>
     </part>
 </game>
