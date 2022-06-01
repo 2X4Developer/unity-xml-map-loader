@@ -1,2 +1,4 @@
 # unity-xml-map-loader
-for unity games lol
+the BlockProperties.cs script gets applied automatically
+
+for this all to work attach MapLoad.cs to an empty gameobject
