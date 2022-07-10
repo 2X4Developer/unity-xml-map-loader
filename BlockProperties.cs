@@ -31,6 +31,7 @@ public class BlockProperties : MonoBehaviour
             transform.localScale = THISScale;
             transform.localRotation = Quaternion.Euler(THISRotation);
             GetComponent<Renderer>().material.color = ColorBL;
+            GetComponent<Renderer>().material.SetFloat("_Glossiness", 0);
             WasSet = true;
         }
     }
