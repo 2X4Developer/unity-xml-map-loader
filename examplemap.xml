@@ -3,7 +3,7 @@
         <name>Gaming Part</name>
 	<position>(0,0,0)</position>
 	<scale>(10,10,10)</scale>
-	<rotation>(0,45,0)</rotation>
+	<rotation>(0,0,0)</rotation>
         <anchored>false</anchored>
 	<color>#FFFFFF</color>
 	<shape>Sphere</shape>
@@ -16,5 +16,14 @@
 	<anchored>true</anchored>
 	<color>#FFF000</color>
 	<shape>Block</shape>   
+    </part>
+    <part>
+        <name>Gaming Part (2)</name>
+	<position>(20,0,20)</position>
+	<scale>(10,10,10)</scale>
+	<rotation>(0,0,0)</rotation>
+	<anchored>true</anchored>
+	<color>#FFF000</color>
+	<shape>Quad</shape>   
     </part>
 </game>
