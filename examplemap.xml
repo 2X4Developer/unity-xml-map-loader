@@ -6,6 +6,7 @@
 	<rotation>(0,45,0)</rotation>
         <anchored>false</anchored>
 	<color>#FFFFFF</color>
+	<shape>Sphere</shape>
     </part>
     <part>
         <name>Gaming Part (1)</name>
@@ -14,5 +15,6 @@
 	<rotation>(0,45,0)</rotation>
 	<anchored>true</anchored>
 	<color>#FFF000</color>
+	<shape>Block</shape>   
     </part>
 </game>
