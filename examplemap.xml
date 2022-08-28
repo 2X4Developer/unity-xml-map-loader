@@ -3,7 +3,7 @@
         <name>Gaming Part</name>
 	<position>(0,0,0)</position>
 	<scale>(10,10,10)</scale>
-	<rotation>(0, 45, 0)</rotation>
+	<rotation>(0,45,0)</rotation>
         <anchored>false</anchored>
 	<color>#FFFFFF</color>
     </part>
