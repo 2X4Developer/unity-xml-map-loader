@@ -24,6 +24,6 @@
 	<rotation>(0,0,0)</rotation>
 	<anchored>true</anchored>
 	<color>#FFF000</color>
-	<shape>Quad</shape>   
+	<shape>Cylinder</shape>   
     </part>
 </game>
