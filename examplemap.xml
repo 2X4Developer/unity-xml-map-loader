@@ -1,15 +1,9 @@
 <game>
     <part>
         <name>Gaming Part</name>
-        <sizeX>10</sizeX>
-        <sizeY>10</sizeY>
-        <sizeZ>10</sizeZ>
-        <posX>0</posX>
-        <posY>0</posY>
-        <posZ>0</posZ>
-        <rotX>0</rotX>
-        <rotY>45</rotY>
-        <rotZ>0</rotZ>
+	<position>(0,0,0)</position>
+	<scale>(10,10,10)</scale>
+	<rotation>(0, 45, 0)</rotation>
         <anchored>false</anchored>
 	<color>#FFFFFF</color>
     </part>
